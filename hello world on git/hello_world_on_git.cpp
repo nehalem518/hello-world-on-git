@@ -6,5 +6,6 @@ int main()
 	int a = 0;
 	int b = 0;
 	cout << a << b << endl;
+	system("pause");
 	return 0;
 }
